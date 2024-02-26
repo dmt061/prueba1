@@ -1,7 +1,7 @@
 
 
 
-const registro = [];
+let registro = [];
 
 for (let i = 0; i < 6; i++) {
   if (i === 0) {
